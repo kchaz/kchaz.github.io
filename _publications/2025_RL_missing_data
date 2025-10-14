@@ -5,7 +5,7 @@ category: workingpaper
 permalink: /publication/2025-RL-missing-data
 excerpt: "This is an unpublished working paper that originated in Skyler Wu and my project for Professor Susan Murphy's Reinforcement Learning class at Harvard. We would like to further develop it."
 date: 2025-10-14
-vanue: "arxiv"
+venue: "arxiv"
 paperurl: "https://arxiv.org/abs/2510.10709"
 citation: "Chasalow, Kyla, Skyler Wu, and Susan Murphy. 2025. "Missing Data Multiple Imputation for Tabular Q-Learning in Online RL." arXiv preprint arXiv:2510.10709."
 ---
