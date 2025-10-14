@@ -1,7 +1,7 @@
 ---
 title: "Representativeness in Statistics, Politics, and Machine Learning"
 collection: publications
-category: manuscripts
+category: published
 permalink: /publication/representativeness
 excerpt: "An exploration of the concept of representativeness."
 date: 2021-01-01
