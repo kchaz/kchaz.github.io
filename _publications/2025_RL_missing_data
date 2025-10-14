@@ -2,12 +2,16 @@
 title: "Missing Data Multiple Imputation for Tabular Q-Learning in Online RL"
 collection: publications
 category: workingpaper
-permalink: /publication/2025-RL_missing_data
+permalink: /publication/2025-RL-missing-data
 excerpt: "This is an unpublished working paper that originated in Skyler Wu and my project for Professor Susan Murphy's Reinforcement Learning class at Harvard. We would like to further develop it."
 date: 2025-10-14
+vanue: "arxiv"
 paperurl: "https://arxiv.org/abs/2510.10709"
 ---
 
 ### Abstract
 
 Missing data in online reinforcement learning (RL) poses challenges compared to missing data in standard tabular data or in offline policy learning. The need to impute and act at each time step means that imputation cannot be put off until enough data exist to produce stable imputation models. It also means future data collection and learning depend on previous imputations. This paper proposes fully online imputation ensembles. We find that maintaining multiple imputation pathways may help balance the need to capture uncertainty under missingness and the need for efficiency in online settings. We consider multiple approaches for incorporating these pathways into learning and action selection. Using a Grid World experiment with various types of missingness, we provide preliminary evidence that multiple imputation pathways may be a useful framework for constructing simple and efficient online missing data RL methods. 
+
+
+
