@@ -1,7 +1,7 @@
 ---
 title: "Missing Data Multiple Imputation for Tabular Q-Learning in Online RL"
 collection: publications
-category: workingpaper
+category: published
 permalink: /publication/2025-RL-missing-data
 excerpt: "This is an unpublished working paper that originated in Skyler Wu and my project for Professor Susan Murphy's Reinforcement Learning class at Harvard. We would like to further develop it."
 date: 2025-10-14
