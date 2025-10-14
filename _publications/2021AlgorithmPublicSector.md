@@ -1,7 +1,7 @@
 ---
 title: "Algorithms and Decision-Making in the Public Sector"
 collection: publications
-category: manuscripts
+category: published
 permalink: /publication/2021-algorithms-decision-public-sector
 excerpt: "This paper surveys how algorithms are used in public sector decision-making and explores the social implications."
 date: 2021-01-01
