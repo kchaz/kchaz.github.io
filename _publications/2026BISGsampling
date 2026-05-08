@@ -5,7 +5,7 @@ category: preprints
 permalink: /publication/2026-BISG-sampling
 excerpt: "This paper proposes a method to improve minority population sampling by integrating surname- and geography-based (BISG) probabilities into a Poisson sampling design and demonstrates its effectiveness in a survey of Jewish Americans."
 date: 2026-05-08
-venue: "arxiv"
+venue: "arXiv"
 paperurl: "https://arxiv.org/abs/2605.05384"
 citation: "Chasalow, Kyla, Eitan Hersh, Kosuke Imai, and Laura Royden. 2026. “Improving Minority Population Sampling with BISG Probabilities: Evidence from a Survey of Jewish Americans.” arXiv preprint arXiv:2605.05384."
 ---
