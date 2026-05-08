@@ -3,8 +3,7 @@ title: "Improving Minority Population Sampling with BISG Probabilities: Evidence
 collection: publications
 category: preprint
 permalink: /publication/2026-BISG-sampling
-excerpt: >
-  This paper proposes a method to improve minority population sampling by integrating surname- and geography-based (BISG) probabilities into a Poisson sampling design and demonstrates its effectiveness in a survey of Jewish Americans.
+excerpt: "This paper proposes a method to improve minority population sampling by integrating surname- and geography-based (BISG) probabilities into a Poisson sampling design and demonstrates its effectiveness in a survey of Jewish Americans."
 date: 2026-05-08
 venue: "arXiv"
 paperurl: "https://arxiv.org/abs/2605.05384"
@@ -12,6 +11,7 @@ citation: "Chasalow, Kyla, Eitan Hersh, Kosuke Imai, and Laura Royden. 2026. “
 ---
 
 ### Abstract
+
 Sampling geographically dispersed minority populations poses substantial challenges when individual group membership cannot be directly observed. Although stratified sampling can offer efficiency gains, these gains are typically modest unless the minority population is highly concentrated within a small number of strata. In this paper, we propose using Bayesian Improved Surname Geocoding (BISG) to enhance the efficiency of minority population sampling. BISG generates individual-level probabilities of minority group membership based on names and residential addresses. We incorporate these probabilities into a stratified Poisson probability sampling design. Applying the proposed approach to a national survey of Jewish Americans, we find that our estimates closely align with those from a large-scale Pew Research Center survey of the same population, which relied on a substantially more expensive sampling strategy involving geographic stratification and screening. At a fraction of the cost, our survey reproduces nearly identical patterns observed by Pew, including estimates of religious denominations and participation in specific religious activities.
 
 
