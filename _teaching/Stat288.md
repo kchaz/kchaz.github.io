@@ -9,7 +9,7 @@ location: "Cambridge, MA"
 ---
 **Instructors:** [Xiao-Li Meng](https://statistics.fas.harvard.edu/people/xiao-li-meng) and [Adel Daoud](https://adeldaoud.com/) 
 
-**Offered**: Spring 2024, Spring 2025
+**Years TAed**: Spring 2024, Spring 2025
 
 
 Course Abstract
