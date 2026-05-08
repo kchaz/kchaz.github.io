@@ -9,7 +9,7 @@ location: "Cambridge, MA"
 ---
 **Instructor:** [Kevin Rader](https://statistics.fas.harvard.edu/people/kevin-rader) 
 
-**Offered**: Spring 2026
+**Years TAed**: Spring 2026
 
 Course Abstract
 ======
