@@ -9,7 +9,7 @@ location: "Cambridge, MA"
 ---
 **Instructor:** [Xiao-Li Meng](https://statistics.fas.harvard.edu/people/xiao-li-meng) 
 
-**Offered**: Fall 2024
+**Years TAed**: Fall 2024
 
 Course Abstract
 ======
