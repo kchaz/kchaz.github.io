@@ -3,7 +3,7 @@ title: "Probabilistic Race and Ethnicity Prediction Using Group-Specific Name Li
 collection: publications
 category: preprint
 permalink: /publication/2026-lbisg
-excerpt: "This paper proposes lBISG, a method for obtaining probabilities for missing group membership probabilities when only lists of distinctive or common names for each group are available as well as *possibly* some prior geographic information. Previous work on BISG probabilities has generally assumed access to name-frequency data, which can be limiting."
+excerpt: "This paper proposes lBISG, a method for obtaining group membership probabilities from names and geography when only lists of distinctive or common names for each group are available as well as *possibly* some prior geographic information. Previous work on BISG probabilities has generally assumed access to name-frequency data, which can be limiting."
 date: 2026-05-08
 venue: "arXiv"
 paperurl: "https://arxiv.org/abs/2610.06273"
