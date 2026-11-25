@@ -1,5 +1,5 @@
 ---
-title: "Probabilistic Race and Ethnicity Prediction Using Group-Specific Name Lists"
+title: "lBISG: Probabilistic Race and Ethnicity Prediction Using Group-Specific Name Lists"
 collection: publications
 category: preprint
 permalink: /publication/2026-lbisg
