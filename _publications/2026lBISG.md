@@ -7,7 +7,7 @@ excerpt: "This paper proposes lBISG, a method for obtaining group membership pro
 date: 2026-05-08
 venue: "arXiv"
 paperurl: "https://arxiv.org/abs/2610.06273"
-citation: "Chasalow, Kyla, Noah Dasanaike, and Kosuke Imai. 2026. Probabilistic Race and Ethnicity Prediction Using Group-Specific Name Lists. arXiv preprint arXiv:2610.06273."
+citation: "Chasalow, Kyla, Noah Dasanaike, and Kosuke Imai. 2026. lBISG: Probabilistic Race and Ethnicity Prediction Using Group-Specific Name Lists. arXiv preprint arXiv:2610.06273."
 ---
 
 ### Abstract
